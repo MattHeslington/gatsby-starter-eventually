@@ -1,76 +1,64 @@
-# gatsby-starter-eventually
+<h1 align="center">Welcome to ultimateaddresses.com 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/MattHeslington/ultimateaddresses.com#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/MattHeslington/ultimateaddresses.com/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/MattHeslington/ultimateaddresses.com/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/MattHeslington/ultimateaddresses.com" />
+  </a>
+  <a href="https://twitter.com/\_matt\_dev\_" target="_blank">
+    <img alt="Twitter: \_matt\_dev\_" src="https://img.shields.io/twitter/follow/\_matt\_dev\_.svg?style=social" />
+  </a>
+</p>
 
-Gatsby.js V2 starter template based on eventually by HTML5 UP
+> A simple Gatsby.js holding page for ultimateaddresses.com
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+### 🏠 [Homepage](https://github.com/MattHeslington/ultimateaddresses.com#readme)
 
-![Screenshot](./src/assets/img/eventually.jpg)
-
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-eventually/)
-
-## Screenshot
-
-![Screenshot](./src/assets/img/demo.png)
+### ✨ [Demo](ultimateaddresses.com)
 
 ## Install
 
-Make sure that you have the Gatsby CLI program installed:
-
 ```sh
-npm install --global gatsby-cli
-```
-
-And run from your CLI:
-
-```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-eventually
-```
-
-Then you can run it by:
-
-```sh
-cd gatsby-example-site
 npm install
-gatsby develop
 ```
 
-### Personalization
+## Usage
 
-Edit `config.js` to put up your details
-
-```javascript
-module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  ...
-  heading: 'Eventually',
-  subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    }
-    ...
-  ],
-};
-
+```sh
+npm run develop
 ```
 
-### Deploying using Github page
+## Run tests
 
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+```sh
+npm run test
+```
 
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+## Author
 
-### Contribution
+👤 **Matt Heslington**
 
-Suggestions and PRs are welcome!
+* Website: https://good-code.now.sh/
+* Twitter: [@\_matt\_dev\_](https://twitter.com/\_matt\_dev\_)
+* Github: [@MattHeslington](https://github.com/MattHeslington)
 
-Please create issue or open PR request for contribution.
+## 🤝 Contributing
 
-### License
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MattHeslington/ultimateaddresses.com/issues). 
 
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+## Show your support
 
-refer `LICENSE` file in this repository.
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Matt Heslington](https://github.com/MattHeslington).<br />
+This project is [MIT](https://github.com/MattHeslington/ultimateaddresses.com/blob/master/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

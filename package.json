@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-eventually",
+  "name": "ultimateaddresses.com",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Eventually by HTML5 UP",
+  "description": "A simple Gatsby.js holding page for ultimateaddresses.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-eventually.git"
+    "url": "git+https://github.com/MattHeslington/ultimateaddresses.com"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Matt Heslington",
+    "email": "matt.heslington@icloud.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -37,12 +37,12 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-eventually"
+    "ultimateaddresses.com",
+    "domain for sale"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-eventually/issues"
+    "url": "https://github.com/MattHeslington/ultimateaddresses.com/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme"
+  "homepage": "https://github.com/MattHeslington/ultimateaddresses.com#readme"
 }
