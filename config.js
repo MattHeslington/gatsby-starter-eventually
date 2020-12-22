@@ -26,7 +26,7 @@ module.exports = {
         {
             icon: 'fa-envelope-o',
             name: 'Email',
-            url: 'mailto:matt@ultimateaddresses.com',
+            url: 'mailto:matt.heslington@icloud.com',
         },
     ],
 };
